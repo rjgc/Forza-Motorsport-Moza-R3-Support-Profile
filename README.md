@@ -10,6 +10,8 @@ Import the ".json" profile file to the Moza Pithouse
 
 ### Forza Motorsport settings:
 
+Set "Simulation" steering is the assists menu
+
 Select the "InputUINames:\<unknown\>" wheel profile and set "Invert Force Feedback" to "On"
 
 Feedback settings: 
