@@ -17,6 +17,10 @@ Select the "InputUINames:\<unknown\>" wheel profile and set "Invert Force Feedba
 Feedback settings: 
 ![alt text](https://raw.githubusercontent.com/rjgc/Forza-Motorsport-Moza-R3-Support-Profile/refs/heads/main/forza_settings.jpg)
 
+Telemetry Support Settings:
+
+https://support.mozaracing.com/en/support/solutions/articles/70000656889-forza-motorsport-8-telemetry-configuration
+
 Have fun ;)
 
 ### Thanks to [RoyalShooter](https://github.com/RoyalShooter) for the R5 profile
